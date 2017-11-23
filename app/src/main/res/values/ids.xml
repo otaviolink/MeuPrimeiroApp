@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_cadastro_usuarios" type="id">cadastrousuarios</item>
+    <item name="action_settings" type="id">settings</item>
+    <item name="btn_trei" type="id">BtnTreino</item>
+</resources>

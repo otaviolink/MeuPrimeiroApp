@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="255dp"
+    android:orientation="vertical"
+    tools:context="primeiroapp.studio.com.meuprimeiroapp.MainActivity"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/imagem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/icon_tela_inicial01"
+            android:layout_weight="12" />
+
+        <Button
+            android:id="@+id/btn_trei"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_marginTop="4dp"
+            android:elevation="0dp"
+            android:text="TREINO"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:layout_weight="11.50" />
+
+    </LinearLayout>
+
+
+
+</ScrollView>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="login_activity">CadTreino</string>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sair">Sair</string>
+    <string name="logout">Logout</string>
+    <string name="usuarios">Usuários</string>
+
+    <!--Login-->
+    <string name="login_txtUsuario">Usuario: </string>
+    <string name="login_txtSenha">Senha: </string>
+    <string name="login_btnEntrar">Entrar</string>
+    <string name="login_ckbConectado">Manter Conectado? </string>
+
+    <!-- Menu-->
+    <string name="cadastrar">Cadastrar Usuario</string>
+
+    <!-- Mensagem-->
+    <string name="msg_login_incorreto">Usuário e/ou Senha Inválido.</string>
+    <string name="title_activity_cad_usuario">Cadastro Usários</string>
+    <string name="mensagem_cadastro">Registro Cadastrado Com Sucesso</string>
+    <string name="mensagem_atualizado">Registro Atualizado Com Sucesso</string>
+    <string name="mensagem_erro">Erro ao Salvar</string>
+
+    <!-- Usuarios-->
+    <string name="usuario_txtNome">Nome</string>
+    <string name="usuario_txtLogin">Login</string>
+    <string name="usuario_txtSenha">Senha</string>
+
+    <!--Menu Construção-->
+    <string name="settings">Setting</string>
+
+    <!--Menu Android Manifest-->
+    <string name="title_activity_list_usuario">ListUsuarioActivity</string>
+    <string name="lista_usuarios">Lista de usuários</string>
+    <string name="todo_List">Inciar Treino</string>
+    <string name="title_activity_dia_treino">Dias de Treino</string>
+    <string name="title_activity_cad_treino">Cadastrar Treino</string>
+    <string name="title_activity_menu_treino">Menu Treino</string>
+    <string name="title_activity_cad_mont">Montar Treino</string>
+
+
+    <!--Validações-->
+    <string name="login_valUsuario">Usuário Obrigatório. </string>
+    <string name="login_valSenha">Senha Obrigatório. </string>
+    <string name="campo_obrigatorio">Campo Obrigatório.</string>
+
+
+</resources>
